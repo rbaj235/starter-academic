@@ -27,7 +27,7 @@ education:
   - course: ME in Computer
     Umiversity: Mumbai University
     year: 2008
-  - course: ME in Computer
+  - course: BE in Computer
     Umiversity: Mumbai University
     year: 2002
 
