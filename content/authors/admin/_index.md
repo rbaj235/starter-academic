@@ -69,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ruhi holds a Master of Engineering with specialization in Computer Engineering. She has over 14+ years of teaching experience across various Engineering colleges affiliated to Mumbai University, India. Currently, she is focusing on the Wearables to promote physical activity and prevention of chronic diseases as her research areas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to this, she was with Thadomal Shahani Engineering College (University of Mumbai) as a Senior Assistant Professor in the Computer Engineering department. She was involved in teaching and mentoring graduate (Bachelor of Engineering) and postgraduate (Master of Engineering) students on various topics and also managed various activities like university paper correction, coordinating exams, attending syllabus revision committees, delivering keynote speeches in short term training programs.
+
+​
