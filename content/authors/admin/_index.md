@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ruhi Bajaj
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher @ University of Auckland
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Auckland
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- IoT
+- Wearables
+- Healthcare
 
 education:
   courses:
